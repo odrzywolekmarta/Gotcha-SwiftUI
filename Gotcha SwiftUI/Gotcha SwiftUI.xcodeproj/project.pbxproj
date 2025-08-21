@@ -30,11 +30,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EA2E3C532E523B1900F4080A /* Gotcha SwiftUI */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Gotcha SwiftUI";
-			sourceTree = "<group>";
-		};
 		EA2E3C622E523B1A00F4080A /* Gotcha SwiftUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Gotcha SwiftUITests";
@@ -43,6 +38,11 @@
 		EA2E3C6C2E523B1A00F4080A /* Gotcha SwiftUIUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Gotcha SwiftUIUITests";
+			sourceTree = "<group>";
+		};
+		EACF73392E570F530055A5CF /* Gotcha SwiftUI */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Gotcha SwiftUI";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,7 +75,7 @@
 		EA2E3C482E523B1900F4080A = {
 			isa = PBXGroup;
 			children = (
-				EA2E3C532E523B1900F4080A /* Gotcha SwiftUI */,
+				EACF73392E570F530055A5CF /* Gotcha SwiftUI */,
 				EA2E3C622E523B1A00F4080A /* Gotcha SwiftUITests */,
 				EA2E3C6C2E523B1A00F4080A /* Gotcha SwiftUIUITests */,
 				EA2E3C522E523B1900F4080A /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EA2E3C532E523B1900F4080A /* Gotcha SwiftUI */,
+				EACF73392E570F530055A5CF /* Gotcha SwiftUI */,
 			);
 			name = "Gotcha SwiftUI";
 			packageProductDependencies = (
